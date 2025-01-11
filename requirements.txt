@@ -1,0 +1,6 @@
+browser-use
+python-dotenv
+requests
+homeassistant-api
+langchain
+openai
